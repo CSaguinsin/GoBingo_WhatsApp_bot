@@ -1,4 +1,9 @@
 Flask==3.0.0
 requests==2.27.1
 requests-toolbelt==0.9.1
-python-dotenv==0.20.0
+python-dotenv==1.0.0
+torch
+transformers
+Pillow
+opencv-python
+pytesseract 
